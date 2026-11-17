@@ -1,0 +1,13 @@
+{
+  "name": "task-planner",
+  "version": "1.0.0",
+  "description": "A small task planner: a board with priorities, due dates, tags, search, stats and versioned local storage.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
